@@ -1,0 +1,4 @@
+2024-07-16 12:14:35 [ERROR]: msg: [error is not defined, at getProblemDetails], ip: [127.0.0.1]
+2024-07-16 12:26:09 [ERROR]: msg: [Cannot read properties of undefined (reading 'find'), at SubmissionService.addSubmission], ip: [127.0.0.1]2024-07-23 14:08:55 [ERROR]: msg: [Submissions validation failed: language: Language is required, at Document.invalidate], ip: [127.0.0.1]
+2024-07-23 14:13:12 [ERROR]: msg: [Submissions validation failed: language: `JAV` is not a valid enum value for path `language`., at Document.invalidate], ip: [127.0.0.1]
+2024-07-23 18:57:52 [ERROR]: msg: [Assignment to constant variable., at SubmissionService.addSubmission], ip: [127.0.0.1]

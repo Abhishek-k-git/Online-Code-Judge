@@ -1,0 +1,25 @@
+{
+  "name": "socket",
+  "description": "service for socket connection between client and submission service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Abhishek kumar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "socket.io": "^4.7.5"
+  },
+  "keywords": [
+    "code judge",
+    "microservice",
+    "expressjs",
+    "nodejs",
+    "ioredis",
+    "socket.io"
+  ]
+}
